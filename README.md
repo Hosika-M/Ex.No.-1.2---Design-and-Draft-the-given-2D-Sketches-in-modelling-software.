@@ -1,5 +1,5 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+## Name : HOSIKA M
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -36,6 +36,13 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+
+
+<img width="1920" height="893" alt="Screenshot 2026-11-18 185326" src="https://github.com/user-attachments/assets/617a7582-0717-4752-882b-9820cf9c86a2" />
+
+<img width="968" height="680" alt="Screenshot 2026-11-18 185253" src="https://github.com/user-attachments/assets/ad3613ce-c10e-4c06-b21c-03523b983f9f" />
+
+
  
  
  ## RESULT
